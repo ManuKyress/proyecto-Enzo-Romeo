@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
         return divProducto;
     }
 
-    fetch('/script/productos.json')
+    fetch('../script/productos.json')
         .then(response => {
             if (!response.ok) {
                 throw new Error(`Error HTTP: ${response.status} - No se pudo cargar el archivo de productos.`);
