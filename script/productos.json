@@ -4,7 +4,7 @@
     "nombre": "Articulo 1",
     "categoria": "Lorem",
     "descripcion": "Lorem ipsum dolor sit amet.",
-    "imagen": "/img/productos/ornament.png",
+    "imagen": "../img/productos/ornament.png",
     "precio": 78.00
   },
   {
@@ -12,7 +12,7 @@
     "nombre": "Articulo 2",
     "categoria": "Lorem",
     "descripcion": "Lorem ipsum dolor sit amet.",
-    "imagen": "/img/productos/mask.png",
+    "imagen": "../img/productos/mask.png",
     "precio": 78.00
   },
   {
@@ -20,7 +20,7 @@
     "nombre": "Articulo 3",
     "categoria": "Lorem",
     "descripcion": "Lorem ipsum dolor sit amet.",
-    "imagen": "/img/productos/f6.png",
+    "imagen": "../img/productos/f6.png",
     "precio": 78.00
   },
   {
@@ -28,7 +28,7 @@
     "nombre": "Articulo 4",
     "categoria": "Lorem",
     "descripcion": "Lorem ipsum dolor sit amet.",
-    "imagen": "/img/productos/crucifix.png",
+    "imagen": "../img/productos/crucifix.png",
     "precio": 78.00
   },
   {
@@ -36,7 +36,7 @@
     "nombre": "Articulo 5",
     "categoria": "Lorem",
     "descripcion": "Lorem ipsum dolor sit amet.",
-    "imagen": "/img/productos/peluche.png",
+    "imagen": "../img/productos/peluche.png",
     "precio": 78.00
   },
   {
@@ -44,7 +44,7 @@
     "nombre": "Articulo 6",
     "categoria": "Lorem",
     "descripcion": "Lorem ipsum dolor sit amet.",
-    "imagen": "/img/productos/llavero.png",
+    "imagen": "../img/productos/llavero.png",
     "precio": 78.00
   },
   {
@@ -52,7 +52,7 @@
     "nombre": "Articulo 7",
     "categoria": "Lorem",
     "descripcion": "Lorem ipsum dolor sit amet.",
-    "imagen": "/img/productos/mochila.png",
+    "imagen": "../img/productos/mochila.png",
     "precio": 78.00
   },
   {
@@ -60,7 +60,7 @@
     "nombre": "Articulo 8",
     "categoria": "Lorem",
     "descripcion": "Lorem ipsum dolor sit amet.",
-    "imagen": "/img/productos/peluche2.png",
+    "imagen": "../img/productos/peluche2.png",
     "precio": 78.00
   }
 ]
